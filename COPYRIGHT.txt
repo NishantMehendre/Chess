@@ -1,0 +1,23 @@
+COPYRIGHT
+=============
+Your Move is distributed under the GNU GPLv2. There are no restrictions
+on its use. There are restrictions on its distribution in source or
+binary form.
+
+Most parts of Your Move are covered by a "GPL version 2 or later" license.
+Some files are covered by different licenses that are compatible with
+the GPLv2.
+
+As a notable exception, some utilities distributed with the Your Move source are
+covered by other licenses that are not themselves directly compatible with the
+GPLv2. This is OK, as only the tools themselves are licensed this way, the
+output of the tools is not considered a derived work, and so can be safely
+licensed for Your Move's use.
+
+Parts of Your Move can be built and distributed as libraries. These
+parts are still covered by the GPL, and NOT by the Lesser General Public
+License or any other license.
+
+If you integrate all or part of Your Move into your own application, then
+that application must be released under a license compatible with the GPL.
+
